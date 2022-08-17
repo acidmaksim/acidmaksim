@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, SCSS, JS,ReactJS**
 
-- 📫 How to reach me **acidmaksim@gmail.com**
+- 📫 How to reach me **acidmaksim@gmail.com** / tg: **@maximhexlet**
 
 - ⚡ Fun fact **I like skateboarding, mountain skiing, biking. I work and study at the Hexlet School of Online Programming. Developing our open-source projects**
 
