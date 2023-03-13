@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acidmaksim&label=Profile%20views&color=b4def9&style=flat-square" alt="acidmaksim" /> </p>
 
-- 🏫 I’m currently working on [Hexlet](https://github.com/Hexlet)
+- 🔍 Looking for a job
 
 - 👁 I’m currently learning **ReactJS, NestJS**
 
@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **HTML, SCSS, JS,ReactJS**
 
-- 📫 How to reach me **acidmaksim@gmail.com** / tg: **@maximhexlet**
-
-- ⚡ Fun fact **I like skateboarding, mountain skiing, biking. I work and study at the Hexlet School of Online Programming. Developing our open-source projects**
+- 📫 How to reach me **acidmaksim@gmail.com** / tg: **@acidmaxim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
