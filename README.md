@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
-<h3 align="center">I am a project manager at Hexlet and am also developing in frontend development</h3>
+<h3 align="center">I am a project manager at MVP and am also developing in frontend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acidmaksim&label=Profile%20views&color=b4def9&style=flat-square" alt="acidmaksim" /> </p>
-
-- 🔍 Looking for a job
 
 - 👁 I’m currently learning **ReactJS, NestJS**
 
